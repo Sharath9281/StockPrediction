@@ -1,0 +1,121 @@
+*{
+    font-family: sans-serif;
+   
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.navbar-brand .text-success,
+.navbar-brand .text-danger {
+    margin: 0;
+    padding: 0;
+}
+/* herooooo */
+.bg-light{
+    padding-top: 80px;
+    
+}
+.bg-light h1{
+    font-weight: bolder;
+    
+}
+
+#serv_css{
+    color: black;
+}
+#serv_css:hover{
+    color: black;
+    transform:translateX(20px);
+}
+
+.img-fluid{
+    width: 170%;
+    height: 100%;
+    padding-left: 10px;
+    /* padding-top: 10px; */
+}
+.row h1{
+    padding-bottom: 40px;
+    
+}
+.lead{
+    font-family: sans-serif;
+    
+}
+
+/* what we dooooo */
+.service .text-center{
+    font-weight: bold;
+    
+}
+
+.container1{
+    padding-top: 10px;
+}
+.service{
+    padding:30px
+}
+.service .row > div{
+    transition: all 0.3 ease;
+    padding-top: 20px;
+}
+
+
+
+#cards{
+    height: 350px;
+    transition-duration: 1s;
+}
+
+#cards:hover{
+    background-color:lightgrey;
+    transform: scaleY(4px);
+}
+#ser:hover
+{
+    background-color:lightgrey;
+    transform: scaleY(4px);
+}
+
+/* footerrrrr */
+.link li{
+    display: inline-block;
+    margin-right: 10px;
+    padding-top: 15px;
+    font-size: x-large;
+}
+.container .row h5{
+    text-decoration: underline;
+}
+
+.com{
+    font-size: 20px;
+    margin: 100px ;
+    text-decoration: none;
+    color: black;
+    font-family: sans-serif;
+    font-weight: bolder;
+    text-align: center;
+}
+.Logo{
+    margin: 70px 110px;
+}
+#app{
+    margin: 29px 40px;
+    width:200px;
+    height: 200px;
+}
+#g{
+    margin: 80px 50px;
+    width:180px;
+    height: 180px;
+}
+#tes{
+    margin: 80px 50px;
+    width:165px;
+    height: 180px;
+}
+#ib{
+    margin: 60px 55px;
+    width:185px;
+    height: 210px;
+}

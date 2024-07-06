@@ -1,0 +1,21 @@
+.payment-icons {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  .payment-box {
+    background-color: #d4e4f5;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    width: 190px;
+  }
+  .payment-icon {
+    font-size: 48px;
+    margin-bottom: 10px;
+  }
+  .btn-pay-now {
+    width: 150px;
+    margin-bottom: 20px;
+    margin-left:490px;
+    }
